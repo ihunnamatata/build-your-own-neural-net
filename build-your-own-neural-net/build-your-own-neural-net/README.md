@@ -1,10 +1,10 @@
-# 🧠 Build Your Own Neural Network (From Scratch)
+# Build Your Own Neural Network (From Scratch)
 
 This project demonstrates how to implement a **feedforward neural network from scratch** using only NumPy — no libraries like PyTorch or TensorFlow. It's designed as both a learning exercise and a stepping stone toward building real-world medical AI systems.
 
 ---
 
-## 📌 What It Does
+## What It Does
 
 - Solves the XOR problem using a 2-layer neural net
 - Implements forward propagation, backpropagation, and gradient descent manually
@@ -13,7 +13,7 @@ This project demonstrates how to implement a **feedforward neural network from s
 
 ---
 
-## 🩺 Clinical Learning Parallel
+## Clinical Learning Parallel
 
 **Real Healthcare Scenario:**  
 You’re building a system that predicts adverse patient outcomes (e.g. brain death, cardiac arrest, transplant failure) from 2–10 patient vitals.
@@ -25,7 +25,7 @@ This code teaches you:
 
 ---
 
-## 🗂️ Files
+## Files
 
 - `src/main.py`: Clean XOR model without comments
 - `src/main_annotated.py`: Lightly commented version
@@ -35,7 +35,7 @@ This code teaches you:
 
 ---
 
-## 🚀 Run It
+## Run It
 
 ```bash
 cd src/
@@ -44,7 +44,7 @@ python main_deep_annotated.py
 
 ---
 
-## 🧠 What's Next?
+## What's Next?
 
 - Replace XOR with synthetic health data (e.g., HR, BP)
 - Train it to predict ischemia (like in your digital twin)
@@ -53,7 +53,7 @@ python main_deep_annotated.py
 
 ---
 
-## 👩🏾‍⚕️ Author
+## Author
 
 **Ihunna Amugo**  
 DDS Candidate | MHA | MS | REHS | PhD(c) Computational Engineering  
